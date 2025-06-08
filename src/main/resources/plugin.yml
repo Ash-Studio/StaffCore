@@ -1,7 +1,7 @@
 name: StaffCore
 version: 4.4.6
 main: cl.bebt.staffcore.main
-author: BarraR3port
+author: As_h_
 prefix: StaffCore
 loadbefore: [ Essentials, PermissionsEx ]
 api-version: 1.13
