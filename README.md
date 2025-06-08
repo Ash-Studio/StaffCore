@@ -1,4 +1,4 @@
-# <img src="(optional logo URL)" width="32" height="32"> StaffCore  
+
 > Advanced staff management plugin for Minecraft servers.
 
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
